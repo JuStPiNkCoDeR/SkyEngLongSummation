@@ -1,0 +1,1 @@
+I left here composer and PHPUnit, because I want to practice conjunction of Docker and PHPUnit(actually the whole PHP :D) 
